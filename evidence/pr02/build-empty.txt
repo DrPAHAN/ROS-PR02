@@ -1,0 +1,6 @@
+[-1791108137500085504.000s] WARNING:colcon.colcon_core.prefix_path.colcon:The path '/home/dr-pahan/evidence/ROS-PR02/evidence/pr02/install' in the environment variable COLCON_PREFIX_PATH doesn't exist
+[-1791108137500085504.000s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/dr-pahan/evidence/ROS-PR02/evidence/pr02/install/turtle_bringup' in the environment variable AMENT_PREFIX_PATH doesn't exist
+Starting >>> turtle_bringup
+Finished <<< turtle_bringup [3.16s]
+
+Summary: 1 package finished [3.43s]
