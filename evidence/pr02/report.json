@@ -2,10 +2,10 @@
   "schema_version": 1,
   "practice_id": "PR02",
   "course_kit": {
-    "version": "v1-w03",
-    "archive_sha256": "fec6b4e886c19146078bf69fbf90a19279a4cd33f656642395350b299efeb226  robotics-course-kit-v1.tar.gz"
+    "version": "v1-w04",
+    "archive_sha256": "fec6b4e886c19146078bf69fbf90a19279a4cd33f656642395350b299efeb226"
   },
-  "commit": "ВСТАВЬ_СЮДА_40_СИМВОЛОВ_SHA",
+  "commit": "c342d39e8673554789356488d4aa2954c0ebc9ec",
   "commands": [
     "ros2 pkg create --build-type ament_python turtle_bringup",
     "colcon build --symlink-install --packages-select turtle_bringup",
