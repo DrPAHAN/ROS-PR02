@@ -5,7 +5,7 @@
     "version": "v1-w04",
     "archive_sha256": "fec6b4e886c19146078bf69fbf90a19279a4cd33f656642395350b299efeb226"
   },
-  "commit": "05a25a6020ba736d9f909d3fcc7d2a2f9bf6b0c3",
+  "commit": "4e00d627fe5607da27fb333d7529488801c4257b",
   "commands": [
     "ros2 pkg create --build-type ament_python turtle_bringup",
     "colcon build --symlink-install --packages-select turtle_bringup",
